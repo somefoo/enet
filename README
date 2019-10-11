@@ -1,3 +1,11 @@
+This is a fork of ENet available from: https://github.com/lsalzman/enet
+
+
+Changed made to original:
+  Added -fPIC flag
+  Modernised CMake files
+
+
 Please visit the ENet homepage at http://enet.bespin.org for installation
 and usage instructions.
 
